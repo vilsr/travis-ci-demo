@@ -3,3 +3,6 @@ language: java
 gradle check
 
 gradle assemble
+
+jdk:
+  - oraclejdk8
